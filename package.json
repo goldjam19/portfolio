@@ -10,7 +10,7 @@
     "react-ga": "^2.3.5",
     "react-scripts": "1.0.17"
   },
-  "homepage": "https://goldjam19.github.io/portfolio",
+  "homepage": "https://tools-trade-va-sp1.github.io/portfolio",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
