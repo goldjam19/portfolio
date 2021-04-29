@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,aACE,oBACG,gBAAkB","file":"static/css/main.e52729a9.css","sourcesContent":[".profile-pic {\r\n  -o-object-fit: cover;\r\n     object-fit: cover;\r\n}\r\n\n\n\n// WEBPACK FOOTER //\n// ./src/index.css"],"sourceRoot":""}
