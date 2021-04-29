@@ -1,32 +1,32 @@
 {
   "main": {
-    "name":"Student Name",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "name":"Kyle Goldrick",
+    "description":"Hi, I am currently a second year at the University of Virginia studying Commerce and Cognitive Science",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "student@uvawise.com",
+    "bio":"Hi I am currently a 2nd year at UVA studying Commerce and Cognitive Science. I have experience with Python and Java and have completed projects in both languages. Outside of the classroom I play chess competitively and am the President of the UVA Chess Club.",
+    "contactmessage":"Feel free to reach out to me at:",
+    "email": "Kcg2rr@virginia.edu",
     "address":{
       "city":"Charlottesville",
       "state":"Virginia",
       "zip": "22903"
     },
-    "website": "<username>.github.io",
-    "resumedownload":"LINK TO YOUR RESUME HERE - CAN HOST IT ON GDRIVE",
+    "website": "goldjam19.github.io",
+    "resumedownload":"https://drive.google.com/file/d/1qNC_mo_mOMNEJqcnQy9yJ72QONXajFGn/view?usp=sharing",
     "social":[
       {
         "name":"twitter", 
-        "url":"http://twitter.com",
+        "url":"https://twitter.com/kyle_goldrick",
         "className":"fa fa-twitter"
       },
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/yoururl/",
+        "url":"https://www.linkedin.com/in/kyle-goldrick/",
         "className":"fa fa-linkedin"
       },
       {
         "name":"github",
-        "url":"http://github.com/githubusername",
+        "url":"http://github.com/goldjam19",
         "className":"fa fa-github"
       }
     ]
@@ -34,29 +34,18 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Trading Bot",
+        "category":"Intra-day Volatility Trading Bot",
+        "image":"market.jpg",
+        "url":"https://github.com/goldjam19/Algorithmic-volatility-trading"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"Yelp API Project",
+        "category":"Helping People Choose Where To Get Food From",
+        "image":"yelp.jpg",
+        "url":"https://github.com/goldjam19/yelp-api-use-for-cs1501"
       }
+      
     ]
   }
 }
